@@ -1,3 +1,16 @@
+This React app displays uUpcoming Releases for United Kingdom
+
+![Screen Shot 2022-05-21 at 16 35 30](https://user-images.githubusercontent.com/79700458/169658871-55685e55-50d7-4bac-be6c-8de78b3e114f.png)
+
+Data used:
+![Screen Shot 2022-05-21 at 16 36 18](https://user-images.githubusercontent.com/79700458/169658889-1bdf991e-7d44-41cd-a848-0cca10737a55.png)
+
+View more upcoming releases redirects to:
+![Screen Shot 2022-05-21 at 16 36 33](https://user-images.githubusercontent.com/79700458/169658917-99f7f553-7d5b-4233-aa4b-7b22a00254df.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
